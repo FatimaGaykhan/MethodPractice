@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/bin/Debug/net6.0/MethodTasks
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/bin/Debug/net6.0/MethodTasks.deps.json
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/bin/Debug/net6.0/MethodTasks.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/bin/Debug/net6.0/MethodTasks.dll
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/bin/Debug/net6.0/MethodTasks.pdb
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.dll
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/refint/MethodTasks.dll
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.pdb
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/MethodTasks.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/MethodTasks/MethodTasks/obj/Debug/net6.0/ref/MethodTasks.dll
